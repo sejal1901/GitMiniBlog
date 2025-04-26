@@ -1,0 +1,14 @@
+# Node modules (if using Node.js later)
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
